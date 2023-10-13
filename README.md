@@ -1,4 +1,4 @@
-This Python script, "translate_with_nouns.py," is designed to translate English sentences to Hindi while preserving nouns in their original form. It utilizes the Spacy library for natural language processing and the "translate" library for language translation. The purpose of this script is to provide a customized translation experience where nouns are kept in English, and the rest of the sentence is translated into Hindi.
+
 
 
 Prerequisites
@@ -7,6 +7,10 @@ Prerequisites
 3.Translate Library: Install the "translate" library using pip
 4.Additionally, download the English language model used for tokenization and part-of-speech tagging:  
           python -m spacy download en_core_web_sm
+
+
+
+
 
 
 How it Works
