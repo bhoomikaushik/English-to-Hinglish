@@ -2,11 +2,11 @@
 
 
 Prerequisites
-1.Python: You need to have Python installed on your system. This script is compatible with both Python 2 and 3.
-2.Spacy: Install the Spacy library using pip
-3.Translate Library: Install the "translate" library using pip
-4.Additionally, download the English language model used for tokenization and part-of-speech tagging:  
-          python -m spacy download en_core_web_sm
+1.Python
+2.Spacy
+3.Translate Library
+
+model- python -m spacy download en_core_web_sm
 
 
 
